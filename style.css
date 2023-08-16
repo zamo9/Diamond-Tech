@@ -1,0 +1,12 @@
+.logo {
+    height: 50px;
+    width: 50px;
+}
+
+.nav-item, .nav-link{
+    color: black;
+}
+
+.contact-us {
+    background-color: #aae5de ;
+}
